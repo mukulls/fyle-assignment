@@ -40,7 +40,7 @@ body {
     width: 20%;
 }
 .btncontactus:hover{
-    background-color: #dd0000; /* Darker shade of primary color */
+    background-color: #dd0000; 
     transform: scale(1.05); 
 }
 .whatwedo{
@@ -127,11 +127,11 @@ body {
 }
 
 .project-box:hover .project-link {
-    color: #fff; /* Color change on hover */
+    color: #fff; 
 }
 
 .project-box:hover p {
-    color: #fff; /* Color change on hover */
+    color: #fff; 
 }
 .companygrowth h4{
     color: #ff3147;
@@ -140,7 +140,7 @@ body {
     font-weight:bold ;
 }
 #company-growth {
-    background-color: #FAFAFA; /* Change to the desired background color */
+    background-color: #FAFAFA; 
     padding: 130px;
 }
 .growth-section {
@@ -176,7 +176,7 @@ body {
 
 .growth-section:hover .growth-text {
     color: red;
-    font-size: 20px; /* Increase size on hover */
+    font-size: 20px;
 }
 clients-feedback h4, #clients-feedback h1 {
     margin-bottom: 10px;
@@ -230,8 +230,8 @@ footer {
 
 }
 .footer-image {
-    max-width: 60%; /* Ensure the image fits within the footer */
-    height: 60%; /* Maintain the aspect ratio of the image */
+    max-width: 60%; 
+    height: 60%; 
     margin-left: 22%;
 }
 
